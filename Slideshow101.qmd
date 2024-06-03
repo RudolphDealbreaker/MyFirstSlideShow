@@ -1,0 +1,23 @@
+---
+title: "Open Educational Resources"
+title-slide-attributes: 
+  data-background-color: "#FFCD00"
+author: "Ruud Dielen"
+format: 
+  revealjs: 
+    theme: default
+    transition: slide
+    transition-speed: slow
+---
+
+## What are Open Educational Resources? {.centre}
+
+::: incremental
+-   [ **any type** ]{style="color:#FFCD00"} of teaching material
+-   which is [ **shared online** ]{style="color:#FFCD00"}
+-   for which [ **reuse is explicitly** ]{style="color:#FFCD00"} allowed
+:::
+
+## OER at UU Library
+
+The University Library supports teachers in sharing their open educational resources online through www.edusources.nl.
